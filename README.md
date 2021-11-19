@@ -51,8 +51,13 @@ Tôi là 1 Developer (Người Làm Server 🌐, Nhà phát triên Plugin) tùy 
 
 <br>
 
-### 🛠️ My Projects
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+### 🛠️ LET'S JOIN THE SERVER
+- &nbsp IP; Play.unikfamily.com
+- &nbsp Port; 19132
+- &nbsp Tham Gia Máy Chủ Ngay Để Trải Nghiệm Các Tính Năng Độc Quyền Tại Unikfamily
+- &nbsp Thể Loại:
+- &nbsp SkyBlock Co-Op (Open)
+- &nbsp SkyBlock (Open)
+- &nbsp Survival (Open)
+- &nbsp Prison (Update)
+- &nbsp RPG (Update)
