@@ -44,8 +44,8 @@ Tôi là 1 Developer (Người Làm Server 🌐, Nhà phát triên Plugin) tùy 
 ### 📊 Github Stats
 <a href='https://github.com/s2twken/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/s2twken/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/S2TwKen/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
