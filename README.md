@@ -7,11 +7,11 @@ Tôi là 1 Developer (Người Làm Server 🌐, Nhà phát triên Plugin) tùy 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/lmain/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/s2twken/rahul-jh98/lmain/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; Tôi hiện đang làm việc **youtube-audio-player**
+- 🔭 &nbsp; Tôi hiện đang làm việc tại **PLAY.UNIKFAMILY.COM**
 - 🤝 &nbsp; Tôi đang tìm cách cộng tác [sheets-database](https://github.com/rahul-jha98/sheets-database)
 - 🌱 &nbsp; Tôi hiện đang học viết Plugin; 
 - 👨🏻‍💻 &nbsp; Hầu hết các dự án của tôi đều có sẵn trên [Github](https://github.com/s2twken?tab=repositories)
@@ -42,7 +42,7 @@ Tôi là 1 Developer (Người Làm Server 🌐, Nhà phát triên Plugin) tùy 
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/s2twken/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
