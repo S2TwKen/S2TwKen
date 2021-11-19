@@ -7,19 +7,19 @@ Tôi là 1 Developer (Người Làm Server 🌐, Nhà phát triên Plugin) tùy 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/s2twken/rahul-jh98/lmain/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/s2twken/s2twken/lmain/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; Tôi hiện đang làm việc tại **PLAY.UNIKFAMILY.COM**
-- 🤝 &nbsp; Tôi đang tìm cách cộng tác [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🤝 &nbsp; Tôi đang tìm cách cộng tác [sheets-database](https://github.com/s2twken/sheets-database)
 - 🌱 &nbsp; Tôi hiện đang học viết Plugin; 
 - 👨🏻‍💻 &nbsp; Hầu hết các dự án của tôi đều có sẵn trên [Github](https://github.com/s2twken?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) và plugin tôi đã làm👉
 - 💬 &nbsp; Hỏi tôi về bất cứ điều gì liên quan đến Pocketmine, tôi sẵn lòng trợ giúp;
 - 📫 &nbsp; Vui lòng liên hệ với tôi [LinkedIn](https://www.linkedin.com/in/S2TwKen/)
 - 📝 &nbsp; Kiểm tra [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; Khi rảnh rỗi, tôi học Pocketmine để thuần thục hơn. Kiểm tra [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 📚 &nbsp; Khi rảnh rỗi, tôi học Pocketmine để thuần thục hơn. Kiểm tra [Goodreads](https://facebook.com/s2twken.mp) to see the book I have read
 
 <br>
 
