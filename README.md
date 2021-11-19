@@ -7,7 +7,7 @@ Tôi là 1 Developer (Người Làm Server 🌐, Nhà phát triên Plugin) tùy 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/s2twken/s2twken/lmain/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/S2TwKen/rahul-jha98/blob/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
