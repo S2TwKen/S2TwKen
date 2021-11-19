@@ -52,12 +52,12 @@ Tôi là 1 Developer (Người Làm Server 🌐, Nhà phát triên Plugin) tùy 
 <br>
 
 ### 🛠️ LET'S JOIN THE SERVER
-- &nbsp IP; Play.unikfamily.com
-- &nbsp Port; 19132
-- &nbsp Tham Gia Máy Chủ Ngay Để Trải Nghiệm Các Tính Năng Độc Quyền Tại Unikfamily
-- &nbsp Thể Loại:
-- &nbsp SkyBlock Co-Op (Open)
-- &nbsp SkyBlock (Open)
-- &nbsp Survival (Open)
-- &nbsp Prison (Update)
-- &nbsp RPG (Update)
+- **IP**: Play.unikfamily.com
+- **Port**: 19132
+- **Tham Gia Máy Chủ Ngay Để Trải Nghiệm Các Tính Năng Độc Quyền Tại Unikfamily**
+- **Thể Loại**:
+-  SkyBlock Co-Op (Open)
+-  SkyBlock (Open)
+-  Survival (Open)
+-  Prison (Update)
+-  RPG (Update)
